@@ -1,2 +1,2 @@
 # Crypto-Price-Tracker
-A webapp that allows you to track the price of cryptocurrencies live and add your phone number to notify you of changes
+A simple django webapp that allows you track prices of crypto currencies live using coinmarket caps api
